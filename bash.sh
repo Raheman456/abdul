@@ -1,5 +1,6 @@
 #!bin/bash
 
+cd /root
 mkdir test
 cd /root/test
 mkdir sample1
